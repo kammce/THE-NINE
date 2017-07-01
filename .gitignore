@@ -6,6 +6,13 @@ firmware/default/applications/*
 !firmware/default/applications/HelloWorld
 !firmware/default/applications/FreeRTOS
 
+firmware/the-nine/
+firmware/the-nine/bin/*
+firmware/the-nine/obj/*
+firmware/the-nine/applications/*
+!firmware/the-nine/applications/HelloWorld
+!firmware/the-nine/applications/FreeRTOS
+
 cmpe146
 **/.gdb_history
 **/.DS_Store

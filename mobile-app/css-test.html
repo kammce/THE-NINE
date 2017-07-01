@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>CSS Tests</title>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	<style type="text/css">
+		.distance-row {
+		    text-align: center;
+		    margin: auto;
+		}
+		.distance-container {
+		    display: inline-block;
+		    margin-left: 40px;
+		}
+		.north-west {
+			-ms-transform: rotate(-45deg); /* IE 9 */
+		    -webkit-transform: rotate(-45deg); /* Chrome, Safari, Opera */
+		    transform: rotate(-45deg);
+		}
+		.north-east {
+			 -ms-transform: rotate(45deg); /* IE 9 */
+		    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+		    transform: rotate(45deg);
+		}
+		.south-west {
+			-ms-transform: rotate(-135deg); /* IE 9 */
+		    -webkit-transform: rotate(-135deg); /* Chrome, Safari, Opera */
+		    transform: rotate(-135deg);
+		}
+		.south {
+			-ms-transform: rotate(-180deg); /* IE 9 */
+		    -webkit-transform: rotate(-180deg); /* Chrome, Safari, Opera */
+		    transform: rotate(-180deg);
+		}
+		.south-east {
+			 -ms-transform: rotate(135deg); /* IE 9 */
+		    -webkit-transform: rotate(135deg); /* Chrome, Safari, Opera */
+		    transform: rotate(135deg);
+		}
+		.tip {
+			width: 0;
+			height: 0;
+			-webkit-box-sizing: content-box;
+		    -moz-box-sizing: content-box;
+		    box-sizing: content-box;
+			border-left: 12.5px solid transparent;
+			border-right: 12.5px solid transparent;
+			border-bottom: 25px solid green;
+			margin:auto;
+			margin-bottom: 3px;
+		}
+		.middle {
+			-webkit-box-sizing: content-box;
+		    -moz-box-sizing: content-box;
+		    box-sizing: content-box;
+			border-bottom: 25px solid orange;
+			border-left: 12.5px solid transparent;
+			border-right: 12.5px solid transparent;
+			height: 0;
+			width: 25px;
+			margin:auto;
+			margin-bottom: 3px;
+		}
+		.bottom {
+			-webkit-box-sizing: content-box;
+		    -moz-box-sizing: content-box;
+		    box-sizing: content-box;
+			border-bottom: 25px solid red;
+			border-left: 12.5px solid transparent;
+			border-right: 12.5px solid transparent;
+			height: 0;
+			width: 50px;
+			margin:auto;
+			margin-bottom: 3px;
+		}
+		.flip {
+			-ms-transform: rotate(180deg); /* IE 9 */
+		    -webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+		    transform: rotate(180deg);
+		}
+	</style>
+  </head>
+  <body>
+
+  	<div class="row">
+	  	<div class="distance-row">
+		  	<div class="distance-container north-west" style="">
+				<div class="tip"></div>
+				<div class="middle"></div>
+				<div class="bottom"></div>
+				<span># cm</span>
+		  	</div>
+		  	<div class="distance-container north" style="">
+				<div class="tip"></div>
+				<div class="middle"></div>
+				<div class="bottom"></div>
+				<span># cm</span>
+		  	</div>
+		  	<div class="distance-container north-east" style="">
+				<div class="tip"></div>
+				<div class="middle"></div>
+				<div class="bottom"></div>
+				<span># cm</span>
+		  	</div>
+	  	</div>
+	</div>
+
+  	<div class="row">
+	  	<div class="distance-row" style="margin-top: 100px;">
+		  	<div class="distance-container south-west" style="">
+				<div class="tip"></div>
+				<div class="middle"></div>
+				<div class="bottom"></div>
+				<span class="flip"># cm</span>
+		  	</div>
+		  	<div class="distance-container south" style="">
+				<div class="tip"></div>
+				<div class="middle"></div>
+				<div class="bottom"></div>
+				<span class="flip"># cm</span>
+		  	</div>
+		  	<div class="distance-container south-east" style="">
+				<div class="tip"></div>
+				<div class="middle"></div>
+				<div class="bottom"></div>
+				<span class="flip"># cm</span>
+		  	</div>
+	  	</div>
+	</div>
+  </body>
+</html>

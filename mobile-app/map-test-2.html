@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+		<meta charset="utf-8">
+		<title>Directions service (complex)</title>
+		<style>
+			/* Always set the map height explicitly to define the size of the div
+			 * element that contains the map. */
+			#map {
+				height: 100%;
+			}
+			/* Optional: Makes the sample page fill the window. */
+			html, body {
+				height: 100%;
+				margin: 0;
+				padding: 0;
+			}
+			#floating-panel {
+				position: absolute;
+				top: 10px;
+				left: 25%;
+				z-index: 5;
+				background-color: #fff;
+				padding: 5px;
+				border: 1px solid #999;
+				text-align: center;
+				font-family: 'Roboto','sans-serif';
+				line-height: 30px;
+				padding-left: 10px;
+			}
+			#warnings-panel {
+				width: 100%;
+				height:10%;
+				text-align: center;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="floating-panel">
+		<b>Start: </b>
+		<select id="start">
+			<option value='{ "lat": 37.336056, "lng": -121.881855 }'>Center</option>
+			<option value='{ "lat": 37.335873, "lng": -121.881707 }'>1</option>
+			<option value='{ "lat": 37.335308, "lng": -121.881289 }'>2</option>
+			<option value='{ "lat": 37.335062, "lng": -121.881841 }'>3</option>
+			<option value='{ "lat": 37.334613, "lng": -121.880781 }'>4</option>
+			<option value='{ "lat": 37.335837, "lng": -121.882399 }'>5</option>
+			<option value='{ "lat": 37.335863, "lng": -121.882276 }'>6</option>
+			<option value='{ "lat": 37.336269, "lng": -121.882012 }'>7</option>
+			<option value='{ "lat": 37.336698, "lng": -121.881065 }'>8</option>
+			<option value='{ "lat": 37.335691, "lng": -121.881573 }'>9</option>
+			<option value='{ "lat": 37.336617, "lng": -121.879588 }'>10</option>
+			<option value='{ "lat": 37.336603, "lng": -121.882277 }'>11</option>
+			<option value='{ "lat": 37.336184, "lng": -121.883160 }'>12</option>
+			<option value='{ "lat": 37.335793, "lng": -121.882544 }'>13</option>
+			<option value='{ "lat": 37.335581, "lng": -121.883046 }'>14</option>
+			<option value='{ "lat": 37.334550, "lng": -121.880913 }'>15</option>
+			<option value='{ "lat": 37.334380, "lng": -121.881282 }'>16</option>
+			<option value='{ "lat": 37.334285, "lng": -121.881207 }'>17</option>
+			<option value='{ "lat": 37.334200, "lng": -121.881140 }'>18</option>
+			<option value='{ "lat": 37.334434, "lng": -121.880652 }'>19</option>
+			<option value='{ "lat": 37.333986, "lng": -121.881569 }'>20</option>
+			<option value='{ "lat": 37.333697, "lng": -121.882162 }'>21</option>
+			<option value='{ "lat": 37.334174, "lng": -121.881713 }'>22</option>
+			<option value='{ "lat": 37.334064, "lng": -121.881935 }'>23</option>
+			<option value='{ "lat": 37.333834, "lng": -121.882426 }'>24</option>
+			<option value='{ "lat": 37.333879, "lng": -121.881796 }'>25</option>
+		</select>
+		<b>End: </b>
+		<select id="end">
+			<option value='{ "lat": 37.336056, "lng": -121.881855 }'>Center</option>
+			<option value='{ "lat": 37.335873, "lng": -121.881707 }'>1</option>
+			<option value='{ "lat": 37.335308, "lng": -121.881289 }'>2</option>
+			<option value='{ "lat": 37.335062, "lng": -121.881841 }'>3</option>
+			<option value='{ "lat": 37.334613, "lng": -121.880781 }'>4</option>
+			<option value='{ "lat": 37.335837, "lng": -121.882399 }'>5</option>
+			<option value='{ "lat": 37.335863, "lng": -121.882276 }'>6</option>
+			<option value='{ "lat": 37.336269, "lng": -121.882012 }'>7</option>
+			<option value='{ "lat": 37.336698, "lng": -121.881065 }'>8</option>
+			<option value='{ "lat": 37.335691, "lng": -121.881573 }'>9</option>
+			<option value='{ "lat": 37.336617, "lng": -121.879588 }'>10</option>
+			<option value='{ "lat": 37.336603, "lng": -121.882277 }'>11</option>
+			<option value='{ "lat": 37.336184, "lng": -121.883160 }'>12</option>
+			<option value='{ "lat": 37.335793, "lng": -121.882544 }'>13</option>
+			<option value='{ "lat": 37.335581, "lng": -121.883046 }'>14</option>
+			<option value='{ "lat": 37.334550, "lng": -121.880913 }'>15</option>
+			<option value='{ "lat": 37.334380, "lng": -121.881282 }'>16</option>
+			<option value='{ "lat": 37.334285, "lng": -121.881207 }'>17</option>
+			<option value='{ "lat": 37.334200, "lng": -121.881140 }'>18</option>
+			<option value='{ "lat": 37.334434, "lng": -121.880652 }'>19</option>
+			<option value='{ "lat": 37.333986, "lng": -121.881569 }'>20</option>
+			<option value='{ "lat": 37.333697, "lng": -121.882162 }'>21</option>
+			<option value='{ "lat": 37.334174, "lng": -121.881713 }'>22</option>
+			<option value='{ "lat": 37.334064, "lng": -121.881935 }'>23</option>
+			<option value='{ "lat": 37.333834, "lng": -121.882426 }'>24</option>
+			<option value='{ "lat": 37.333879, "lng": -121.881796 }'>25</option>
+		</select>
+		</div>
+		<div id="map"></div>
+		&nbsp;
+		<div id="warnings-panel"></div>
+		<script>
+
+			var target, Target_Coordinates;
+			var TC = { lat: 37.336056, lng: -121.881855 };
+			var markerArray;
+			var directionsService;
+			var map;
+			var directionsDisplay;
+			var stepDisplay;
+
+			function initMap() {
+				var icons = {
+					car: {
+						path: google.maps.SymbolPath.FORWARD_CLOSED_ARROW,
+						scale: 4,
+						rotation: 45,
+						fillColor: "cyan",
+						fillOpacity: 1.0,
+						strokeWeight: 2,
+						anchor: new google.maps.Point(0, 3)
+					},
+					self: {
+						path: google.maps.SymbolPath.CIRCLE,
+						scale: 4,
+						fillColor: "red",
+						fillOpacity: 1.0,
+						strokeWeight: 2
+					},
+					target: {
+						path: "M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm1 21.949v-4.949h-2v4.949c-4.717-.47-8.479-4.232-8.949-8.949h4.949v-2h-4.949c.47-4.717 4.232-8.479 8.949-8.949v4.949h2v-4.949c4.717.471 8.479 4.232 8.949 8.949h-4.949v2h4.949c-.47 4.717-4.232 8.479-8.949 8.949z",
+						scale: 1,
+						anchor: new google.maps.Point(12, 12),
+						strokeColor: "red"
+					},
+					waypoint: {
+						path: "M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm1 21.949v-4.949h-2v4.949c-4.717-.47-8.479-4.232-8.949-8.949h4.949v-2h-4.949c.47-4.717 4.232-8.479 8.949-8.949v4.949h2v-4.949c4.717.471 8.479 4.232 8.949 8.949h-4.949v2h4.949c-.47 4.717-4.232 8.479-8.949 8.949z",
+						scale: 1,
+						anchor: new google.maps.Point(12, 12)
+					}
+				};
+				markerArray = [];
+
+
+				// Create a map and center it on Manhattan.
+				map = new google.maps.Map(document.getElementById('map'), {
+					zoom: 13,
+					center: { lat: 37.336056, lng: -121.881855 }
+				});
+				google.maps.event.addListener(map, "click", function(event) {
+					changeTarget(event.latLng, icons['target'] );
+				});
+
+				// Instantiate a directions service.
+				directionsService = new google.maps.DirectionsService;
+				// Create a renderer for directions and bind it to the map.
+				directionsDisplay = new google.maps.DirectionsRenderer({map: map});
+				// Instantiate an info window to hold step text.
+				stepDisplay = new google.maps.InfoWindow;
+
+				// Display the route between the initial start and end selections.
+				calculateAndDisplayRoute(directionsDisplay, directionsService, markerArray, stepDisplay, map);
+				// Listen to change events from the start and end lists.
+				var onChangeHandler = function() {
+					calculateAndDisplayRoute(directionsDisplay, directionsService, markerArray, stepDisplay, map);
+				};
+			}
+			function changeTarget(location, icon) {
+				if(target) { target.setMap(null); }
+				target = new google.maps.Marker({
+					position: location,
+					map: map,
+					icon: icon
+				});
+				TC = {
+					lat: location.lat(),
+					lng: location.lng()
+				};
+				calculateAndDisplayRoute(directionsDisplay, directionsService, markerArray, stepDisplay, map);
+				console.log("lat: " + Target_Coordinates.lat + ":: lng: " + Target_Coordinates.lng);
+			}
+			function calculateAndDisplayRoute(directionsDisplay, directionsService, markerArray, stepDisplay, map) {
+				// First, remove any existing markers from the map.
+				for (var i = 0; i < markerArray.length; i++) {
+					markerArray[i].setMap(null);
+				}
+
+				// Retrieve the start and end locations and create a DirectionsRequest using
+				// WALKING directions.
+				directionsService.route({
+					origin: JSON.parse(document.getElementById('start').value),
+					destination: TC, //JSON.parse(document.getElementById('end').value),
+					travelMode: 'WALKING'
+				}, function(response, status) {
+					// Route the directions and pass the response to a function to create
+					// markers for each step.
+					if (status === 'OK') {
+						document.getElementById('warnings-panel').innerHTML =
+								'<b>' + response.routes[0].warnings + '</b>';
+						directionsDisplay.setDirections(response);
+						showSteps(response, markerArray, stepDisplay, map);
+					} else {
+						window.alert('Directions request failed due to ' + status);
+					}
+				});
+			}
+
+			function showSteps(directionResult, markerArray, stepDisplay, map) {
+				// For each step, place a marker, and add the text to the marker's infowindow.
+				// Also attach the marker to an array so we can keep track of it and remove it
+				// when calculating new routes.
+				var myRoute = directionResult.routes[0].legs[0];
+				for (var i = 0; i < myRoute.steps.length; i++) {
+					var marker = markerArray[i] = markerArray[i] || new google.maps.Marker;
+					marker.setMap(map);
+					marker.setPosition(myRoute.steps[i].start_location);
+					attachInstructionText(
+							stepDisplay, marker, myRoute.steps[i].instructions, map);
+				}
+			}
+
+			function attachInstructionText(stepDisplay, marker, text, map) {
+				google.maps.event.addListener(marker, 'click', function() {
+					// Open an info window when the marker is clicked on, containing the text
+					// of the step.
+					stepDisplay.setContent(text);
+					stepDisplay.open(map, marker);
+				});
+			}
+		</script>
+		<script async defer
+		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBOJCwOwnDr8VtdhyE_EhcNN697z564krA&callback=initMap">
+		</script>
+	</body>
+</html>

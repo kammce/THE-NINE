@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Remove Markers</title>
+	<style>
+	  /* Always set the map height explicitly to define the size of the div
+	   * element that contains the map. */
+	  #map {
+		height: 100%;
+	  }
+	  /* Optional: Makes the sample page fill the window. */
+	  html, body {
+		height: 100%;
+		margin: 0;
+		padding: 0;
+	  }
+	  #floating-panel {
+		position: absolute;
+		top: 10px;
+		left: 25%;
+		z-index: 5;
+		background-color: #fff;
+		padding: 5px;
+		border: 1px solid #999;
+		text-align: center;
+		font-family: 'Roboto','sans-serif';
+		line-height: 30px;
+		padding-left: 10px;
+	  }
+	</style>
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  </head>
+  <body>
+	<button type="button" class="btn btn-default" aria-label="Left Align"></button>
+	<div id="map"></div>
+	<script>
+	var carBase = 'http://earth.google.com/images/kml-icons/track-directional/';
+	var waypointBase = 'http://maps.google.com/mapfiles/kml/shapes/';
+	// In the following example, markers appear when the user clicks on the map.
+	// The markers are stored in an array.
+	// The user can then click an option to hide, show or delete the markers.
+	var map;
+	var markers = [];
+	var icon;
+	var SJSU = {
+		lat: 37.336056,
+		lng: -121.881855
+	};
+	var Car = {
+		lat: 37.336056,
+		lng: -121.881855
+	};
+	var target, car;
+	function initMap() {
+		var SJSU = {
+			lat: 37.336056,
+			lng: -121.881855
+		};
+		icons = {
+			car: {
+				path: google.maps.SymbolPath.FORWARD_CLOSED_ARROW,
+				scale: 5,
+				rotation: 45
+			},
+			target: waypointBase + 'cross-hairs_highlight.png',
+			waypoint: waypointBase + 'cross-hairs.png',
+		};
+		map = new google.maps.Map(document.getElementById('map'), {
+			zoom: 20,
+			center: SJSU
+		});
+
+		// This event listener will call addMarker() when the map is clicked.
+		map.addListener('click', function(event) {
+			changeTarget(event.latLng, icons['target']);
+		});
+		google.maps.event.addListener(map, "mousedown", function(event){
+			changeTarget(event.latLng, icons['target']);
+		});
+		// map.addListener('mousedown', function(event) {
+		// 	changeTarget(event.latLng, icons['target']);
+		// });
+
+		// Adds a marker at the center of the map.
+		createCar(Car, icons['car']);
+		setInterval(function() {
+			Car.rotation += 5;
+		}, 500);
+	}
+
+	// Adds a marker to the map and push to the array.
+	function changeTarget(location, icon) {
+		document.getElementById('append').innerHTML += "DS!";
+		if(target) { target.setMap(null); }
+		target = new google.maps.Marker({
+			position: location,
+			map: map,
+			icon: icon
+		});
+	}
+	// Adds a marker to the map and push to the array.
+	function createCar(location, icon) {
+		if(car) { car.setMap(null); }
+		car = new google.maps.Marker({
+			position: location,
+			map: map,
+			icon: icon
+		});
+	}
+	</script>
+	<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBOJCwOwnDr8VtdhyE_EhcNN697z564krA&callback=initMap"></script>
+  </body>
+</html>
