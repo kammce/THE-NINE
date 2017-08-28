@@ -8,7 +8,7 @@ if (window.hyper && window.hyper.log) { console.log = hyper.log }
 var bluetoothSerial = {};
 bluetoothSerial.write = function() {};
 
-const DEBUG = true;
+const DEBUG = false;
 // =====================================
 // Window Setup
 // =====================================

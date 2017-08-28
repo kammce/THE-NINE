@@ -5,6 +5,8 @@ var tele_view = document.querySelector("#telemetry-view");
 var view_navi_btn = document.querySelector("#view-change");
 var log_textarea = document.querySelector("#log");
 
+var animation_queue
+
 var bluetooth_procedure = {
 	disconnect: function()
 	{
@@ -21,7 +23,7 @@ var bluetooth_procedure = {
 		message_log("ATTEMPTING TO CONNECT!");
 		bluetoothSerial.isConnected(bluetooth_procedure.connect_procedure, function()
 		{
-			bluetoothSerial.connect('30:14:06:24:01:80',
+			bluetoothSerial.connect('10:14:06:16:00:14',
 				function()
 				{
 					message_log("CONNECTION SUCCESSFUL!");
@@ -41,7 +43,8 @@ var bluetooth_procedure = {
 		{
 			if(data.match(message_handler_struct[i].trigger))
 			{
-				message_handler_struct[i].action(data);
+				message_handler_struct[i].data = data;
+				//console.log(data);
 				//message_log(data);
 				return;
 			}
@@ -51,6 +54,32 @@ var bluetooth_procedure = {
 	}
 };
 
+var animation = true;
+
+window.onfocus = function()
+{
+	animation = true;
+	message_log("focus event");
+};
+window.onblur = function()
+{
+	animation = false;
+	message_log("blur event");
+};
+
+setInterval(() =>
+{
+	if(animation)
+	{
+		for (var i = 0; i < message_handler_struct.length; i++)
+		{
+			if(typeof message_handler_struct[i].data !== "undefined")
+			{
+				message_handler_struct[i].action(message_handler_struct[i].data);
+			}
+		}
+	}
+}, 250);
 
 const MAX_VOLTAGE = 12.6;
 const MIN_VOLTAGE = 9;
@@ -147,6 +176,7 @@ view_navi_btn.addEventListener('click', function()
 var message_handler_struct = [
 	{
 		trigger: /^T:[0-9]+/g,
+		data: undefined,
 		action: function(data)
 		{
 			feedback.speed.current = parseInt(data.replace("T:", ""));
@@ -164,6 +194,7 @@ var message_handler_struct = [
 	},
 	{
 		trigger: /^MM:[\-0-9]+,[\-0-9]+/g,
+		data: undefined,
 		action: function(data)
 		{
 			var tmp = data.replace("MM:", "");
@@ -175,6 +206,7 @@ var message_handler_struct = [
 	},
 	{
 		trigger: /^H:[0-9]+,[0-9]+/g,
+		data: undefined,
 		action: function(data)
 		{
 			var tmp = data.replace("H:", "");
@@ -198,6 +230,7 @@ var message_handler_struct = [
 	},
 	{
 		trigger: /^TH:[0-9]+/g,
+		data: undefined,
 		action: function(data)
 		{
 			feedback.heading.target = parseInt(data.replace("TH:", ""));
@@ -206,6 +239,7 @@ var message_handler_struct = [
 	},
 	{
 		trigger: /^V:[0-9]+/g,
+		data: undefined,
 		action: function(data)
 		{
 			// var progress = document.querySelector("#state-of-charge");
@@ -232,6 +266,7 @@ var message_handler_struct = [
 	},
 	{
 		trigger: /^L:[0-9]+,[\-0-9]+/g,
+		data: undefined,
 		action: function(data)
 		{
 			var tmp = data.replace("L:", "");
@@ -244,6 +279,7 @@ var message_handler_struct = [
 	},
 	{
 		trigger: /^D:[01]+/g,
+		data: undefined,
 		action: function(data)
 		{
 			var tmp = parseInt(data.replace("D:", ""));
@@ -262,6 +298,7 @@ var message_handler_struct = [
 	},
 	{
 		trigger: /^S:[0-9]+,[0-9]+,[0-9]+,[0-9]+,[0-9]+,[0-9]+/g,
+		data: undefined,
 		action: function(data)
 		{
 			if(typeof this.detect_sonar_calibration == "undefined")
@@ -274,7 +311,7 @@ var message_handler_struct = [
 			var directions = ["north-west","north","north-east","south-west","south","south-east"];
 
 			feedback.charge.adc = parseInt(feedback.sonar[5]);
-			feedback.sonar[5] = 0;
+			feedback.sonar[5] = 1000;
 
 			if(parseInt(feedback.sonar[3]) === 255 &&
 				// parseInt(feedback.sonar[5]) === 255 &&
@@ -303,6 +340,7 @@ var message_handler_struct = [
 	},
 	{
 		trigger: /^HB:[0-9]+/g,
+		data: undefined,
 		action: function(data)
 		{
 			feedback.heartbeat = parseInt(data.replace("HB:",""));
@@ -316,7 +354,7 @@ function setDistanceIndicator(directions, value)
 	var colors = ["green", "orange", "red"];
 	var indicator = document.querySelector(`.${directions}`);
 	indicator.querySelector('span').innerHTML = `${value} cm`;
-	if(value < 14 && value != -1)
+	if(value == 1000 && value != -1)
 	{
 		document.querySelector(`.${directions}`).style.visibility = "hidden";
 	}
@@ -324,10 +362,10 @@ function setDistanceIndicator(directions, value)
 	{
 		document.querySelector(`.${directions}`).style.visibility = "visible";
 		if(value == -1)							{ colors = ["red", "orange", "green"]; }
-		else if(value >= 14 && value <= 75)		{ colors = ["red", "red", "red"]; }
-		else if(value > 75 && value <= 150)		{ colors = ["orange", "orange", "lightgrey"]; }
-		else if(value > 150 && value <= 300) 	{ colors = ["green", "lightgrey", "lightgrey"]; }
-		else if(value > 300) 					{ colors = ["lightgrey", "lightgrey", "lightgrey"]; }
+		else if(value >= 0  && value <= 15)		{ colors = ["red", "red", "red"]; }
+		else if(value > 15  && value <= 35)	    { colors = ["orange", "orange", "lightgrey"]; }
+		else if(value > 35  && value <= 50) 	{ colors = ["green", "lightgrey", "lightgrey"]; }
+		else if(value > 50) 					{ colors = ["lightgrey", "lightgrey", "lightgrey"]; }
 		indicator.querySelector('.tip').style.borderBottom 		= `25px solid ${colors[0]}`;
 		indicator.querySelector('.middle').style.borderBottom 	= `25px solid ${colors[1]}`;
 		indicator.querySelector('.bottom').style.borderBottom 	= `25px solid ${colors[2]}`;
