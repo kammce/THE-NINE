@@ -29,9 +29,10 @@ var bluetooth_procedure = {
 					message_log("CONNECTION SUCCESSFUL!");
 					bluetooth_procedure.connect();
 				},
-				function()
+				function(error)
 				{
 					message_log("FAILED TO CONNECT!");
+					message_log(error);
 					bluetooth_procedure.disconnect();
 				}
 			);
