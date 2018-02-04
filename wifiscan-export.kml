@@ -1,0 +1,2706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<name>Wifi Access Points</name>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 0062ec308c11<br>Capabilities:[ESS][P2P][BLE]<br>channel: 1<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969890000<br>hdop: 6]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88102587,37.33674031</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 0c6803b0addc<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 0c6803b0addd<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 0c6803b0adde<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 0c6803b0addf<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>The Internet</name>
+<description><![CDATA[ssid: The Internet<br>mac: 1cb9c433733c<br>Capabilities:[WPA2-PSK+FT/PSK-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -90<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 34a84e6a18e3<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -90<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 34a84e6a18e5<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -90<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 34a84e6a18e6<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -93<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 34a84e6a18e7<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -90<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 34a84e6a18eb<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 34a84e6a18ed<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 34a84e6a18ee<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 34a84e6a18ef<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 500604bb6071<br>Capabilities:[ESS][P2P][BLE]<br>channel: 6<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 500604bb6073<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -80<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 500604bb6075<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -80<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 500604bb6076<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -80<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 500604bb6077<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -80<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 500604bb607b<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -72<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 500604bb607d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -72<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 500604bb607e<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -74<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 500604bb607f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -73<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SETUP</name>
+<description><![CDATA[ssid: SETUP<br>mac: 5e841addd0e8<br>Capabilities:[IBSS]<br>channel: 11<br>maxrssi: -80<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a71cb904<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969385000<br>hdop: 8]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163699,37.33686897</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a71cb905<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969385000<br>hdop: 8]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163699,37.33686897</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a71cb906<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969385000<br>hdop: 8]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163699,37.33686897</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a71cb907<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969385000<br>hdop: 8]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163699,37.33686897</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a71cb90d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969385000<br>hdop: 8]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163699,37.33686897</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a71cbe1c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a71cbe1d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a71cbe1e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a71cbe1f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a71ccd60<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -78<br>privacy: On<br>type: AP<br>lastseen: 1515969399000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88167439,37.33676861</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a71ccd63<br>Capabilities:[ESS][P2P][BLE]<br>channel: 6<br>maxrssi: -78<br>privacy: On<br>type: AP<br>lastseen: 1515969388000<br>hdop: 6]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163664,37.33685083</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a71ccd6c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969347000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88179617,37.3364896</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a71ccd6d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969347000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88179617,37.3364896</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a71ccd6e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a71ccd6f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a7309bac<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a7309bad<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -89<br>privacy: On<br>type: AP<br>lastseen: 1515969326000<br>hdop: 108]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536397,37.33818202</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a7309bae<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969326000<br>hdop: 108]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536397,37.33818202</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a7309baf<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a7309ee0<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -81<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a7309ee1<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a7309ee2<br>Capabilities:[ESS][BLE]<br>channel: 11<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969326000<br>hdop: 108]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536397,37.33818202</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a7309ee3<br>Capabilities:[ESS][P2P][BLE]<br>channel: 11<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a7309eec<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -74<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a7309eed<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -74<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a7309eee<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -74<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a7309eef<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -74<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a756a422<br>Capabilities:[ESS][BLE]<br>channel: 11<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969382000<br>hdop: 9]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163765,37.3368942</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a756a423<br>Capabilities:[ESS][P2P][BLE]<br>channel: 11<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969388000<br>hdop: 6]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163664,37.33685083</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a756a424<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -92<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a756a425<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -90<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756a426<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -91<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a756a427<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -91<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a756a42d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -81<br>privacy: On<br>type: AP<br>lastseen: 1515969388000<br>hdop: 6]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163664,37.33685083</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756a42e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a756afb0<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756afb1<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a756afb3<br>Capabilities:[ESS][P2P][BLE]<br>channel: 6<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a756afbd<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756afbe<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -89<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a756afbf<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -89<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a756b990<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756b991<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969399000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88167439,37.33676861</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a756b992<br>Capabilities:[ESS][BLE]<br>channel: 1<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a756b993<br>Capabilities:[ESS][P2P][BLE]<br>channel: 1<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756b99e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -90<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a756ba80<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -59<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756ba81<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -59<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a756ba82<br>Capabilities:[ESS][BLE]<br>channel: 1<br>maxrssi: -59<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a756ba83<br>Capabilities:[ESS][P2P][BLE]<br>channel: 1<br>maxrssi: -59<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a756ba8c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -50<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a756ba8d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -50<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756ba8e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -50<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a756ba8f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -50<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756bb31<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -80<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a756bb32<br>Capabilities:[ESS][BLE]<br>channel: 6<br>maxrssi: -81<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a756bb33<br>Capabilities:[ESS][P2P][BLE]<br>channel: 6<br>maxrssi: -81<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a756bd00<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969314000<br>hdop: 19]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536905,37.33823119</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756bd01<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -75<br>privacy: On<br>type: AP<br>lastseen: 1515969314000<br>hdop: 19]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536905,37.33823119</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a756bd02<br>Capabilities:[ESS][BLE]<br>channel: 11<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969314000<br>hdop: 19]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536905,37.33823119</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a756bd03<br>Capabilities:[ESS][P2P][BLE]<br>channel: 11<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969314000<br>hdop: 19]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536905,37.33823119</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a756bd0c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a756bd0d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756bd0e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -75<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a756bd0f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756be71<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a756be72<br>Capabilities:[ESS][BLE]<br>channel: 1<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a756be73<br>Capabilities:[ESS][P2P][BLE]<br>channel: 1<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969394000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88164784,37.33680986</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a756be7c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -81<br>privacy: On<br>type: AP<br>lastseen: 1515969399000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88167439,37.33676861</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a756c2ac<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a756c2ad<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756c2ae<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969399000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88167439,37.33676861</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a756c2af<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969394000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88164784,37.33680986</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a756c4a5<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969394000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88164784,37.33680986</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a756c4a6<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -89<br>privacy: On<br>type: AP<br>lastseen: 1515969394000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88164784,37.33680986</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a756c4ac<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969382000<br>hdop: 9]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163765,37.3368942</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a756c4af<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969379000<br>hdop: 11]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88164882,37.33691151</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a7d79373<br>Capabilities:[ESS][P2P][BLE]<br>channel: 11<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969314000<br>hdop: 19]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536905,37.33823119</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a7d797a0<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -75<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a7d797a1<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -69<br>privacy: On<br>type: AP<br>lastseen: 1515969308000<br>hdop: 12]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536853,37.33823273</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a7d797a2<br>Capabilities:[ESS][BLE]<br>channel: 6<br>maxrssi: -74<br>privacy: On<br>type: AP<br>lastseen: 1515969308000<br>hdop: 12]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536853,37.33823273</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a7d797a3<br>Capabilities:[ESS][P2P][BLE]<br>channel: 6<br>maxrssi: -72<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6886a7d797ac<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -64<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6886a7d797ad<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -64<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6886a7d797ae<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -64<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6886a7d797af<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -64<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 6cfa8954d371<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969343000<br>hdop: 50]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88228638,37.33648866</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 6cfa8954d372<br>Capabilities:[ESS][BLE]<br>channel: 1<br>maxrssi: -72<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 6cfa8954d37c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -89<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 6cfa8954d37f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -89<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 8875561ef6f0<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969364000<br>hdop: 33]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88191594,37.33700659</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 8875561ef6f1<br>Capabilities:[ESS][BLE]<br>channel: 11<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 8875561ef6f2<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 8875561fbd30<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 8875561fbd32<br>Capabilities:[ESS][BLE]<br>channel: 11<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969332000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88526178,37.33816745</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 8875561fbd33<br>Capabilities:[ESS][P2P][BLE]<br>channel: 11<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969332000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88526178,37.33816745</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 8875561fbd34<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 8875561fbd35<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 8875561fbd36<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 8875561fbd37<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 8875561fbd3c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969326000<br>hdop: 108]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536397,37.33818202</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 8875561fbd3e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969332000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88526178,37.33816745</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 887556c74ff1<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 887556c74ff2<br>Capabilities:[ESS][BLE]<br>channel: 1<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 887556c74ff3<br>Capabilities:[ESS][P2P][BLE]<br>channel: 1<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 887556c74ffc<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 887556c74ffd<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 887556c74ffe<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 887556c74fff<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969356000<br>hdop: 35]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88196444,37.33692654</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 88908d933aab<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -80<br>privacy: On<br>type: AP<br>lastseen: 1515969335000<br>hdop: 93]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88487729,37.33817115</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 88908d933aad<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -80<br>privacy: On<br>type: AP<br>lastseen: 1515969335000<br>hdop: 93]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88487729,37.33817115</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 88908d933aae<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -80<br>privacy: On<br>type: AP<br>lastseen: 1515969335000<br>hdop: 93]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88487729,37.33817115</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 88908d933aaf<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -79<br>privacy: On<br>type: AP<br>lastseen: 1515969335000<br>hdop: 93]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88487729,37.33817115</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: 88908d933c1b<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -66<br>privacy: On<br>type: AP<br>lastseen: 1515969356000<br>hdop: 35]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88196444,37.33692654</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: 88908d933c1d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -66<br>privacy: On<br>type: AP<br>lastseen: 1515969356000<br>hdop: 35]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88196444,37.33692654</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: 88908d933c1e<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -66<br>privacy: On<br>type: AP<br>lastseen: 1515969356000<br>hdop: 35]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88196444,37.33692654</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: 88908d933c1f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -66<br>privacy: On<br>type: AP<br>lastseen: 1515969356000<br>hdop: 35]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88196444,37.33692654</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0b20fc0<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969341000<br>hdop: 55]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88285323,37.33669748</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0b20fc1<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969341000<br>hdop: 55]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88285323,37.33669748</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0b20fc2<br>Capabilities:[ESS][BLE]<br>channel: 11<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0b20fc3<br>Capabilities:[ESS][P2P][BLE]<br>channel: 11<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969341000<br>hdop: 55]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88285323,37.33669748</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0b20fc4<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0b20fc5<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0b20fc6<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0b20fc7<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0b20fcc<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969341000<br>hdop: 55]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88285323,37.33669748</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0b20fcd<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0b20fcf<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0b22aa3<br>Capabilities:[ESS][P2P][BLE]<br>channel: 6<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969332000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88526178,37.33816745</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0b22aac<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -89<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0b22aad<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -89<br>privacy: On<br>type: AP<br>lastseen: 1515969332000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88526178,37.33816745</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0b4bb10<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -63<br>privacy: On<br>type: AP<br>lastseen: 1515969335000<br>hdop: 93]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88487729,37.33817115</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0b4bb11<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -62<br>privacy: On<br>type: AP<br>lastseen: 1515969335000<br>hdop: 93]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88487729,37.33817115</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0b4bb12<br>Capabilities:[ESS][BLE]<br>channel: 6<br>maxrssi: -63<br>privacy: On<br>type: AP<br>lastseen: 1515969335000<br>hdop: 93]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88487729,37.33817115</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0b4bb13<br>Capabilities:[ESS][P2P][BLE]<br>channel: 6<br>maxrssi: -63<br>privacy: On<br>type: AP<br>lastseen: 1515969335000<br>hdop: 93]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88487729,37.33817115</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0b4bb14<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -71<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0b4bb15<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -71<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0b4bb16<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -71<br>privacy: On<br>type: AP<br>lastseen: 1515969335000<br>hdop: 93]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88487729,37.33817115</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0b4bb17<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -71<br>privacy: On<br>type: AP<br>lastseen: 1515969335000<br>hdop: 93]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88487729,37.33817115</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0b4bb1c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -65<br>privacy: On<br>type: AP<br>lastseen: 1515969341000<br>hdop: 55]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88285323,37.33669748</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0b4bb1d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -65<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0b4bb1e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -61<br>privacy: On<br>type: AP<br>lastseen: 1515969341000<br>hdop: 55]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88285323,37.33669748</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0b4bb1f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -65<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0b4d90c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969382000<br>hdop: 9]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163765,37.3368942</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0b4d90e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969382000<br>hdop: 9]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163765,37.3368942</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0b4d90f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969382000<br>hdop: 9]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163765,37.3368942</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0b4df1e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -78<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0b4e7d0<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -81<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0b4e7d1<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -79<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0b4e7d2<br>Capabilities:[ESS][BLE]<br>channel: 6<br>maxrssi: -75<br>privacy: On<br>type: AP<br>lastseen: 1515969382000<br>hdop: 9]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163765,37.3368942</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0b4e7d3<br>Capabilities:[ESS][P2P][BLE]<br>channel: 6<br>maxrssi: -80<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0b4e7dc<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -72<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0b4e7dd<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -72<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0b4e7de<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -72<br>privacy: On<br>type: AP<br>lastseen: 1515969341000<br>hdop: 55]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88285323,37.33669748</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0b4e7df<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -72<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0b4e850<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -53<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0b4e852<br>Capabilities:[ESS][BLE]<br>channel: 11<br>maxrssi: -53<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0b4e853<br>Capabilities:[ESS][P2P][BLE]<br>channel: 11<br>maxrssi: -52<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0b4e85c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -60<br>privacy: On<br>type: AP<br>lastseen: 1515969320000<br>hdop: 53]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536848,37.3382003</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0b4e85d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -60<br>privacy: On<br>type: AP<br>lastseen: 1515969320000<br>hdop: 53]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536848,37.3382003</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0b4e85e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -60<br>privacy: On<br>type: AP<br>lastseen: 1515969320000<br>hdop: 53]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536848,37.3382003</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0b4e85f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -59<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0b4eb30<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -80<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0b4eb32<br>Capabilities:[ESS][BLE]<br>channel: 1<br>maxrssi: -75<br>privacy: On<br>type: AP<br>lastseen: 1515969399000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88167439,37.33676861</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0b4eb3f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0ef199c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0ef199d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0ef199e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -89<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0ef199f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0ef1c70<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969388000<br>hdop: 6]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163664,37.33685083</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0ef1c71<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969388000<br>hdop: 6]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163664,37.33685083</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0ef1c72<br>Capabilities:[ESS][BLE]<br>channel: 11<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969385000<br>hdop: 8]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163699,37.33686897</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0ef1c73<br>Capabilities:[ESS][P2P][BLE]<br>channel: 11<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969388000<br>hdop: 6]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163664,37.33685083</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0ef1c7c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969311000<br>hdop: 15]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536904,37.33823123</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0ef1c7d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -77<br>privacy: On<br>type: AP<br>lastseen: 1515969394000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88164784,37.33680986</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0ef1c7e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969311000<br>hdop: 15]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536904,37.33823123</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0ef1c7f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969311000<br>hdop: 15]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536904,37.33823123</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0ef21c0<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0ef21c2<br>Capabilities:[ESS][BLE]<br>channel: 1<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969341000<br>hdop: 55]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88285323,37.33669748</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0ef21c3<br>Capabilities:[ESS][P2P][BLE]<br>channel: 1<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969341000<br>hdop: 55]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88285323,37.33669748</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0ef21c4<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0ef21c5<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0ef21c6<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0ef21c7<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0ef21cc<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -81<br>privacy: On<br>type: AP<br>lastseen: 1515969341000<br>hdop: 55]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88285323,37.33669748</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0ef21cd<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969341000<br>hdop: 55]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88285323,37.33669748</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0ef21ce<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -81<br>privacy: On<br>type: AP<br>lastseen: 1515969338000<br>hdop: 100]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88462994,37.33815514</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0ef50c1<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -79<br>privacy: On<br>type: AP<br>lastseen: 1515969326000<br>hdop: 108]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536397,37.33818202</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0ef50c3<br>Capabilities:[ESS][P2P][BLE]<br>channel: 6<br>maxrssi: -77<br>privacy: On<br>type: AP<br>lastseen: 1515969326000<br>hdop: 108]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536397,37.33818202</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0ef50cc<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -79<br>privacy: On<br>type: AP<br>lastseen: 1515969326000<br>hdop: 108]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536397,37.33818202</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0ef50cd<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -81<br>privacy: On<br>type: AP<br>lastseen: 1515969320000<br>hdop: 53]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536848,37.3382003</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0ef50ce<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -79<br>privacy: On<br>type: AP<br>lastseen: 1515969326000<br>hdop: 108]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536397,37.33818202</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0ef50cf<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -77<br>privacy: On<br>type: AP<br>lastseen: 1515969326000<br>hdop: 108]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536397,37.33818202</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0ef6110<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -60<br>privacy: On<br>type: AP<br>lastseen: 1515969317000<br>hdop: 27]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536877,37.33821742</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0ef6111<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -60<br>privacy: On<br>type: AP<br>lastseen: 1515969317000<br>hdop: 27]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536877,37.33821742</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0ef6112<br>Capabilities:[ESS][BLE]<br>channel: 6<br>maxrssi: -60<br>privacy: On<br>type: AP<br>lastseen: 1515969317000<br>hdop: 27]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536877,37.33821742</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0ef6113<br>Capabilities:[ESS][P2P][BLE]<br>channel: 6<br>maxrssi: -60<br>privacy: On<br>type: AP<br>lastseen: 1515969317000<br>hdop: 27]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536877,37.33821742</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0ef611c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -59<br>privacy: On<br>type: AP<br>lastseen: 1515969320000<br>hdop: 53]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536848,37.3382003</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0ef611d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -59<br>privacy: On<br>type: AP<br>lastseen: 1515969320000<br>hdop: 53]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536848,37.3382003</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0ef611e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -59<br>privacy: On<br>type: AP<br>lastseen: 1515969320000<br>hdop: 53]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536848,37.3382003</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0ef611f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -59<br>privacy: On<br>type: AP<br>lastseen: 1515969320000<br>hdop: 53]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536848,37.3382003</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0ef61e0<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -80<br>privacy: On<br>type: AP<br>lastseen: 1515969399000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88167439,37.33676861</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0ef61e3<br>Capabilities:[ESS][P2P][BLE]<br>channel: 1<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: b4e9b0ef61ec<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969314000<br>hdop: 19]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536905,37.33823119</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0ef61ed<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -59<br>privacy: On<br>type: AP<br>lastseen: 1515969487000<br>hdop: 67]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88200541,37.33645403</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: b4e9b0ef61ee<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: b4e9b0ef61ef<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969314000<br>hdop: 19]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536905,37.33823119</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: b4e9b0ef65c2<br>Capabilities:[ESS][BLE]<br>channel: 11<br>maxrssi: -75<br>privacy: On<br>type: AP<br>lastseen: 1515969394000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88164784,37.33680986</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name></name>
+<description><![CDATA[ssid: <br>mac: c0c1c0e53105<br>Capabilities:[WPA2-PSK-CCMP][ESS]<br>channel: 6<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: ccd539892ef3<br>Capabilities:[ESS][P2P][BLE]<br>channel: 6<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd539892efd<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd539892f00<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969314000<br>hdop: 19]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536905,37.33823119</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: ccd539892f01<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969314000<br>hdop: 19]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536905,37.33823119</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd539892f02<br>Capabilities:[ESS][BLE]<br>channel: 6<br>maxrssi: -82<br>privacy: On<br>type: AP<br>lastseen: 1515969314000<br>hdop: 19]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536905,37.33823119</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: ccd539892f03<br>Capabilities:[ESS][P2P][BLE]<br>channel: 6<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969314000<br>hdop: 19]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88536905,37.33823119</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: ccd539892f0c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd539892f0d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: ccd539892f0e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd539892f0f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd539892f1d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: ccd539892f1e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -89<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd539892f1f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd539893040<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: ccd539893041<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd539893042<br>Capabilities:[ESS][BLE]<br>channel: 1<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: ccd539893043<br>Capabilities:[ESS][P2P][BLE]<br>channel: 1<br>maxrssi: -75<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: ccd53989304c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd53989304d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -75<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: ccd53989304e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd53989304f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -77<br>privacy: On<br>type: AP<br>lastseen: 1515969332000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88526178,37.33816745</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd5398937f0<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: ccd5398937f4<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -90<br>privacy: On<br>type: AP<br>lastseen: 1515969379000<br>hdop: 11]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88164882,37.33691151</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: ccd5398937fc<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd5398937fd<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -89<br>privacy: On<br>type: AP<br>lastseen: 1515969382000<br>hdop: 9]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163765,37.3368942</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: ccd5398937fe<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd5398937ff<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd539893880<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969394000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88164784,37.33680986</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: ccd539893881<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: ccd539893883<br>Capabilities:[ESS][P2P][BLE]<br>channel: 11<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: ccd539893884<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd539893885<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: ccd539893886<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd539893887<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -88<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: ccd53989388c<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969399000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88167439,37.33676861</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd53989388d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969399000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88167439,37.33676861</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: ccd53989388e<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969391000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163839,37.33683652</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd53989388f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd53989397f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -89<br>privacy: On<br>type: AP<br>lastseen: 1515969397000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88166378,37.33678398</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd5398939d2<br>Capabilities:[ESS][BLE]<br>channel: 1<br>maxrssi: -80<br>privacy: On<br>type: AP<br>lastseen: 1515969382000<br>hdop: 9]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163765,37.3368942</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd539893bb0<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969394000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88164784,37.33680986</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd539893bb2<br>Capabilities:[ESS][BLE]<br>channel: 1<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969388000<br>hdop: 6]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163664,37.33685083</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: ccd539893e61<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969332000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88526178,37.33816745</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd539893e62<br>Capabilities:[ESS][BLE]<br>channel: 11<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: ccd539893e63<br>Capabilities:[ESS][P2P][BLE]<br>channel: 11<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969329000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88533861,37.33817558</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: ccd539893e64<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969332000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88526178,37.33816745</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd539893e65<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: ccd539893e66<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969353000<br>hdop: 40]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88193557,37.33684577</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd539893e67<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: ccd539893e6d<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -90<br>privacy: On<br>type: AP<br>lastseen: 1515969349000<br>hdop: 43]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88176898,37.33653379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: ccd539893e6f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969332000<br>hdop: 76]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88526178,37.33816745</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: f029292aa8e2<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -87<br>privacy: On<br>type: AP<br>lastseen: 1515969431000<br>hdop: 3]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88194388,37.33655585</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: f029292aafd0<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969299000<br>hdop: 28]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.885344,37.33831421</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: f029292aafd1<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 11<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: f029292aafd2<br>Capabilities:[ESS][BLE]<br>channel: 11<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: f029292aafd3<br>Capabilities:[ESS][P2P][BLE]<br>channel: 11<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: f029292ae5e0<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -77<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: f029292ae5e1<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 1<br>maxrssi: -77<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: f029292ae5e2<br>Capabilities:[ESS][BLE]<br>channel: 1<br>maxrssi: -77<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: f029292ae5e3<br>Capabilities:[ESS][P2P][BLE]<br>channel: 1<br>maxrssi: -77<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: f029292ae5ec<br>Capabilities:[ESS][P2P][BLE]<br>channel: -<br>maxrssi: -84<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_Guest</name>
+<description><![CDATA[ssid: SJSU_Guest<br>mac: f029292ae5ed<br>Capabilities:[ESS][BLE]<br>channel: -<br>maxrssi: -86<br>privacy: On<br>type: AP<br>lastseen: 1515969297000<br>hdop: 31]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88527248,37.33840275</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>eduroam</name>
+<description><![CDATA[ssid: eduroam<br>mac: f029292ae5ee<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: f029292ae5ef<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -83<br>privacy: On<br>type: AP<br>lastseen: 1515969302000<br>hdop: 13]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.8853621,37.33827662</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: f029292af280<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: 6<br>maxrssi: -76<br>privacy: On<br>type: AP<br>lastseen: 1515969399000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88167439,37.33676861</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_MyDevice</name>
+<description><![CDATA[ssid: SJSU_MyDevice<br>mac: f029292af283<br>Capabilities:[ESS][P2P][BLE]<br>channel: 6<br>maxrssi: -85<br>privacy: On<br>type: AP<br>lastseen: 1515969382000<br>hdop: 9]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/green.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88163765,37.3368942</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SJSU_premier</name>
+<description><![CDATA[ssid: SJSU_premier<br>mac: f029292af28f<br>Capabilities:[WPA2-EAP-CCMP][ESS][BLE]<br>channel: -<br>maxrssi: -79<br>privacy: On<br>type: AP<br>lastseen: 1515969399000<br>hdop: 5]]></description><Style><IconStyle>
+<Icon><href>http://maps.google.com/mapfiles/ms/micons/red.png</href></Icon>
+</IconStyle>
+</Style><Point>
+<coordinates>-121.88167439,37.33676861</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

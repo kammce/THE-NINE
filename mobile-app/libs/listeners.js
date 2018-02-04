@@ -5,8 +5,6 @@ var tele_view = document.querySelector("#telemetry-view");
 var view_navi_btn = document.querySelector("#view-change");
 var log_textarea = document.querySelector("#log");
 
-var animation_queue
-
 var bluetooth_procedure = {
 	disconnect: function()
 	{
@@ -21,21 +19,27 @@ var bluetooth_procedure = {
 	attempt_to_connect: function()
 	{
 		message_log("ATTEMPTING TO CONNECT!");
-		bluetoothSerial.isConnected(bluetooth_procedure.connect_procedure, function()
+		bluetoothSerial.enable(function()
 		{
-			bluetoothSerial.connect('10:14:06:16:00:14',
-				function()
-				{
-					message_log("CONNECTION SUCCESSFUL!");
-					bluetooth_procedure.connect();
-				},
-				function(error)
-				{
-					message_log("FAILED TO CONNECT!");
-					message_log(error);
-					bluetooth_procedure.disconnect();
-				}
-			);
+			bluetoothSerial.isConnected(bluetooth_procedure.connect_procedure, function()
+			{
+				bluetoothSerial.connect('10:14:06:16:00:14',
+					function()
+					{
+						message_log("CONNECTION SUCCESSFUL!");
+						bluetooth_procedure.connect();
+					},
+					function(error)
+					{
+						message_log("FAILED TO CONNECT!");
+						message_log(error);
+						bluetooth_procedure.disconnect();
+					}
+				);
+			});
+		},
+		function() {
+			alert("Failed to connect, Bluetooth not enabled!");
 		});
 	},
 	recieve_successful: function(data)
@@ -45,8 +49,6 @@ var bluetooth_procedure = {
 			if(data.match(message_handler_struct[i].trigger))
 			{
 				message_handler_struct[i].data = data;
-				//console.log(data);
-				//message_log(data);
 				return;
 			}
 		}
